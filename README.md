@@ -1,7 +1,6 @@
 # AI-Powered-Financial-Fraud-Detection-Risk-Analytics
 
-📌 **AI-Powered Financial Fraud Detection & Risk Analytics**  
-🚀 **Real-time fraud detection & risk analytics using ML, SQL & Tableau**  
+
 
 🔍 **Technologies**: Python, Machine Learning, SQL, Tableau, Streamlit  
 🎯 **Ideal for**: Banking, FinTech, SaaS, E-Commerce Fraud Prevention  
