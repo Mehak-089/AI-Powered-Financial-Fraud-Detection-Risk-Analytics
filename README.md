@@ -129,19 +129,3 @@ streamlit run streamlit_app/fraud_detector_app.py
 
 ---
 
-## 📌 **Future Enhancements**  
-
-✅ **Real-time Fraud Detection** (Kafka + Apache Spark)  
-✅ **Anomaly Detection** (Autoencoders & Isolation Forest)  
-✅ **Deployment on AWS Lambda** for scaling  
-✅ **Network Graph Analysis** for linked fraud detection  
-
----
-
-## 🔥 **Why This Project?**  
-
-🚀 **FAANG-Level ML Project** → Ideal for resume & job applications  
-💡 **Solves Real-World Problems** → Financial fraud detection is high-impact  
-📈 **Scalable & Extendable** → Ready for enterprise deployment  
-
-📩 **Need help deploying or adding this to your resume? Let me know!** 😃🚀
