@@ -1,10 +1,4 @@
-# AI-Powered-Financial-Fraud-Detection-Risk-Analytics
-
-Here's a visually appealing **README.md** with emojis, formatting, and sections that make it stand out. 🚀  
-
----
-
-### 📌 **AI-Powered Financial Fraud Detection & Risk Analytics**  
+📌 **AI-Powered Financial Fraud Detection & Risk Analytics**  
 🚀 **Real-time fraud detection & risk analytics using ML, SQL & Tableau**  
 
 🔍 **Technologies**: Python, Machine Learning, SQL, Tableau, Streamlit  
