@@ -94,18 +94,6 @@ Financial fraud is a multi-billion-dollar problem, requiring intelligent detecti
 
 ---
 
-## 🏗 **Project Structure**  
-
-📂 **AI-Financial-Fraud-Detection/**  
-├── 📁 `data/` → Dataset & Preprocessed Data  
-├── 📁 `dashboard/` → Tableau Visualization  
-├── 📁 `streamlit_app/` → Streamlit UI & Model  
-├── 📁 `notebooks/` → Model Training Notebooks  
-├── 📝 `fraud_predictions.csv` → Model Output  
-├── 📝 `README.md` → Project Documentation  
-
----
-
 ## 🛠 **Setup & Installation**  
 
 ### 1️⃣ Install Required Packages  
